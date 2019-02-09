@@ -4,7 +4,11 @@ Dibuat untuk memenuhi nilai tugas akhir IF431. - Pemrogramman Berorientasi Objec
 
 Not finish.
 
-# Proudly Created By:
+# What I Learned
+
+Create Object Oriented, Inheritence, Polymorphism.
+
+# Made By:
 
 - I. Yudhistira Indrawan  - 00000016442
 - Neville Budiman         - 00000017642
